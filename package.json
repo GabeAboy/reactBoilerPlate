@@ -1,0 +1,20 @@
+{
+  "name": "boilerplate",
+  "version": "1.0.0",
+  "description": "Get started with react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GabeAboy/reactBoilerPlate.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GabeAboy/reactBoilerPlate/issues"
+  },
+  "homepage": "https://github.com/GabeAboy/reactBoilerPlate#readme"
+}
